@@ -1,6 +1,6 @@
-Simple client server audio streaming project
+### Simple client server audio streaming project
 
-Note: so far can only play .wav files
+*Note: so far can only play .wav files*
 
 ___
 
@@ -21,16 +21,16 @@ __To Run:__
       2.  password: pass
 4.  Enter Commands
     1.  Admin Only
-        - add  `<song name>`   *Note: song must be in current directory of Client.java*
-        - delete  `<song name>`
-        - create  `<username> <pass>`
-        - remoev  `<username>`
+        - `add <song name>`   *song must be in current directory of Client.java*
+        - `delete `<song name>`
+        - `create `<username> <pass>`
+        - `remoev `<username>`
     2. All Users
-       - play  `<song name>`
-       - pause
-       - resume
-       - stop
-       - library 
+       - `play <song name>`
+       - `pause`
+       - `resume`
+       - `stop`
+       - `library` 
 
 ___
 
