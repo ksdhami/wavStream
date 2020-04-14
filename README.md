@@ -21,10 +21,10 @@ __To Run:__
       2.  password: pass
 4.  Enter Commands
     1.  Admin Only
-        - `add <song name>`   *song must be in current directory of Client.java*
-        - `delete `<song name>`
-        - `create `<username> <pass>`
-        - `remoev `<username>`
+        - `add <song name>`
+        - `delete <song name>`
+        - `create <username> <pass>`
+        - `remove <username>`
     2. All Users
        - `play <song name>`
        - `pause`
