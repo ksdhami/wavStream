@@ -10,8 +10,8 @@ __To Compile:__
 
 
 __To Run:__
-1. First terminal: java Server <Port Number>
-2. Second terminal: java Client <Server IP> <Port Number>
+1. First terminal: `java Server <Port Number>`
+2. Second terminal: `java Client <Server IP> <Port Number>`
 3. Log in with appropriate account
    1. As a User
       1. username: user
