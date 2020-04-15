@@ -34,4 +34,4 @@ __To Run:__
 
 ___
 
-Future work is to get .mp3 files to work and also add ability to use playlists
+Future work is to add ability to use playlists

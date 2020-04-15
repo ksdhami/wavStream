@@ -326,6 +326,7 @@ class Play extends Thread {
 
     /**
      * Control streaming and playback
+     * https://docs.oracle.com/javase/tutorial/sound/sampled-overview.html
      */
     public void run() {
         playing = true;
