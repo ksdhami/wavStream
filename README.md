@@ -1,8 +1,10 @@
-### Simple client server audio streaming project
+# WAV File Music Streaming Client and Server
 
-*Note: so far can only play .wav files*
+Simple multi-threaded client server audio streaming project that operates over TCP/IP
 
 ___
+
+## Deployement
 
 __To Compile:__
 1. First terminal: javac Server.java
