@@ -6,13 +6,13 @@ Simple multi-threaded client server audio streaming project that operates over T
 ## Deployement
 
 __To Compile:__
-1. First terminal: javac Server.java
-2. Second terminal: javac Client.java
+1. First terminal: ```javac Server.java```
+2. Second terminal: ```javac Client.java```
 
 
 __To Run:__
-1. First terminal: `java Server <Port Number>`
-2. Second terminal: `java Client <Server IP> <Port Number>`
+1. First terminal: ```java Server <Port Number>```
+2. Second terminal: ```java Client <Server IP> <Port Number>```
 3. Log in with appropriate account
    1. As a User
       1. username: user
