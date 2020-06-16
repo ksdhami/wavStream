@@ -2,7 +2,6 @@
 
 Simple multi-threaded client server audio streaming project that operates over TCP/IP
 
-___
 
 ## Deployement
 
